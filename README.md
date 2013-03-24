@@ -1,4 +1,4 @@
-radiotape
+Radiotape
 =========
 
-Record and remix Creative Commons-licensed music on mobile
+Record and remix Creative Commons-licensed music on mobile.
